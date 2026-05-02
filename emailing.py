@@ -3,9 +3,9 @@ from PIL import Image
 from io import BytesIO
 from email.message import EmailMessage
 
-username = "itsallgoodman2026@gmail.com"
-password = "mire wnzj bddj fjfb"
-receiver = "deviramaswamy@gmail.com"
+username = "sender@email.com"
+password = "xxxxxxx"
+receiver = "receiver"
 
 def send_email(image_path):
 
