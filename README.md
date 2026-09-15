@@ -1,4 +1,4 @@
-# 📹 Webcam Motion Detector & Alert System
+# Webcam Motion Detector & Alert System
 
 A real-time motion detection and surveillance application built with Python, OpenCV, and Streamlit. The system continuously monitors a webcam feed, detects movement, captures snapshots of entering objects, and sends instant email alerts with attachments in background threads.
 
